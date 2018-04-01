@@ -28,9 +28,9 @@ AddEditAdrenalineNode::AddEditAdrenalineNode(QWidget *parent) :
     ui->aliasLineEdit->setPlaceholderText("Enter your Masternode alias");
     ui->addressLineEdit->setPlaceholderText("Enter your IP & port");
     ui->privkeyLineEdit->setPlaceholderText("Enter your Masternode private key");
-    ui->txhashLineEdit->setPlaceholderText("Enter your 5000 MIE TXID");
+    ui->txhashLineEdit->setPlaceholderText("Enter your 5000 VTR TXID");
     ui->outputindexLineEdit->setPlaceholderText("Enter your transaction output index");
-    ui->donationaddressLineEdit->setPlaceholderText("Enter a MIE address for your MN donation");
+    ui->donationaddressLineEdit->setPlaceholderText("Enter a VTR address for your MN donation");
     ui->donationpercentageLineEdit->setPlaceholderText("Input the % for the donation");
 }
 

@@ -1731,8 +1731,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 MIE</source>
-        <translation>123.456 MIE</translation>
+        <source>0.00 VTR</source>
+        <translation>123.456 VTR</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1801,8 +1801,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 MIE</source>
-        <translation>123.456 MIE</translation>
+        <source>123.456 VTR</source>
+        <translation>123.456 VTR</translation>
     </message>
     <message>
         <location line="+31"/>

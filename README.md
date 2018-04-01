@@ -2,7 +2,7 @@
 
 Coin Name : Ventor Coin
 
-Ticker : MIE
+Ticker : VTR
 
 Coin Type : POW + POS
 

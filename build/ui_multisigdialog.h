@@ -621,15 +621,15 @@ public:
         inputsBox->setTitle(QApplication::translate("MultisigDialog", "Inputs", nullptr));
         inputsAmountLabel->setText(QApplication::translate("MultisigDialog", "Inputs amount:", nullptr));
         inputsAmount->setText(QApplication::translate("MultisigDialog", "123.456", nullptr));
-        label->setText(QApplication::translate("MultisigDialog", "MIE", nullptr));
+        label->setText(QApplication::translate("MultisigDialog", "VTR", nullptr));
         addInputButton->setText(QApplication::translate("MultisigDialog", "Add input...", nullptr));
         outputsBox->setTitle(QApplication::translate("MultisigDialog", "Outputs", nullptr));
         outputsAmountLabel->setText(QApplication::translate("MultisigDialog", "Outputs amount:", nullptr));
         outputsAmount->setText(QApplication::translate("MultisigDialog", "123.456", nullptr));
-        label_2->setText(QApplication::translate("MultisigDialog", "MIE", nullptr));
+        label_2->setText(QApplication::translate("MultisigDialog", "VTR", nullptr));
         feeLabel->setText(QApplication::translate("MultisigDialog", "Fee:", nullptr));
         fee->setText(QApplication::translate("MultisigDialog", "123.456", nullptr));
-        label_3->setText(QApplication::translate("MultisigDialog", "MIE", nullptr));
+        label_3->setText(QApplication::translate("MultisigDialog", "VTR", nullptr));
         addOutputButton->setText(QApplication::translate("MultisigDialog", "Add output...", nullptr));
         createTransactionButton->setText(QApplication::translate("MultisigDialog", "Create transaction", nullptr));
         transaction->setPlaceholderText(QApplication::translate("MultisigDialog", "Enter a raw transaction or create a new one", nullptr));

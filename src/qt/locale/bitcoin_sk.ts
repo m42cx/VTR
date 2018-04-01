@@ -418,7 +418,7 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+2"/>
         <source>Backup wallet to another location</source>
-        <translation>Zálohovať peňaženku na iné miesto</translation>
+        <translation>Zálohovať peňaženku na iné VTRsto</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -640,7 +640,7 @@ Adresa: %4</translation>
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation>Došlo k chybe pri pokuse o uloženie dát peňaženky do nového umiestnenia.</translation>
+        <translation>Došlo k chybe pri pokuse o uloženie dát peňaženky do nového uVTRstnenia.</translation>
     </message>
     <message numerus="yes">
         <location line="+91"/>
@@ -1106,7 +1106,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+1"/>
         <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-        <translation>Nastavenie jazyka, napr &quot;de_DE&quot; (predvolené: miestne nastavenie systému)</translation>
+        <translation>Nastavenie jazyka, napr &quot;de_DE&quot; (predvolené: VTRstne nastavenie systému)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1229,12 +1229,12 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>Minimalizovať na lištu namiesto panelu úloh</translation>
+        <translation>Minimalizovať na lištu naVTRsto panelu úloh</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Minimalizovať namiesto ukončenia aplikácie keď sa zatvorí okno. Keď je zvolená táto možnosť, aplikácia sa zatvorí len po zvolení Ukončiť v menu.</translation>
+        <translation>Minimalizovať naVTRsto ukončenia aplikácie keď sa zatvorí okno. Keď je zvolená táto možnosť, aplikácia sa zatvorí len po zvolení Ukončiť v menu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1735,8 +1735,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 MIE</source>
-        <translation>123.456 MIE {0.00 ?}</translation>
+        <source>0.00 VTR</source>
+        <translation>123.456 VTR {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1805,8 +1805,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 MIE</source>
-        <translation>123.456 MIE</translation>
+        <source>123.456 VTR</source>
+        <translation>123.456 VTR</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1916,7 +1916,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Chyba: Transakcia bola zamietnutá. To môže nastať, ak niektoré z mincí vo vašej peňaženke sa už použili, ako napríklad, ak ste použili kópiu wallet.dat a mince boli použité v kópii, ale neboli označené tu ako použité.</translation>
+        <translation>Chyba: Transakcia bola zaVTRtnutá. To môže nastať, ak niektoré z mincí vo vašej peňaženke sa už použili, ako napríklad, ak ste použili kópiu wallet.dat a mince boli použité v kópii, ale neboli označené tu ako použité.</translation>
     </message>
     <message>
         <location line="+247"/>
@@ -2754,7 +2754,7 @@ Doporučuje sa použiť nasledovné náhodne heslo:
 rpcuser=Ventorrpc
 rpcpassword=%s
 (toto heslo si nemusíte pamätať)
-Užívateľské meno a heslo NESMIE byť rovnaké.
+Užívateľské meno a heslo NESVTR byť rovnaké.
 Ak súbor neexistuje, vytvorte ho s právami &quot;môže čítať iba vlastník&quot;.
 Odporúča sa tiež nastaviť &quot;alertnotify&quot;, takže budete upozornení na problémy,
 napríklad: alertnotify=echo %%s | mail -s &quot;Ventor upozornenie&quot; admin@foo.com
@@ -2948,7 +2948,7 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Ventor upozornenie&quot; admin@
     <message>
         <location line="+42"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Odoslať trace/debug informácie na konzolu namiesto debug.info žurnálu</translation>
+        <translation>Odoslať trace/debug informácie na konzolu naVTRsto debug.info žurnálu</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -3025,7 +3025,7 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Ventor upozornenie&quot; admin@
     <message>
         <location line="+2"/>
         <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Chyba: Transakcia bola zamietnutá! Toto môže nastať, ak niektoré z mincí vo vašej peňaženke sa už použili, ako napríklad, ak ste použili kópiu wallet.dat a mince boli použité v kópii, ale neboli označené ako použité tu.</translation>
+        <translation>Chyba: Transakcia bola zaVTRtnutá! Toto môže nastať, ak niektoré z mincí vo vašej peňaženke sa už použili, ako napríklad, ak ste použili kópiu wallet.dat a mince boli použité v kópii, ale neboli označené ako použité tu.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3180,7 +3180,7 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Ventor upozornenie&quot; admin@
     <message>
         <location line="+17"/>
         <source>Error: Disk space is low!</source>
-        <translation>Chyba: Nedostatok miesta na disku!</translation>
+        <translation>Chyba: Nedostatok VTRsta na disku!</translation>
     </message>
     <message>
         <location line="+1"/>

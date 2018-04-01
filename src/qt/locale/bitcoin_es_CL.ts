@@ -235,7 +235,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>IMPORTANTE: Cualquier versión anterior que hayas realizado de tu archivo de billetera será reemplazada por el nuevo archivo de billetera encriptado. Por razones de seguridad, los respaldos anteriores de los archivos de billetera se volverán inútiles en tanto comiences a usar la nueva billetera encriptada.</translation>
+        <translation>IMPORTANTE: Cualquier versión anterior que hayas realizado de tu archivo de billetera será reemplazada por el nuevo archivo de billetera encriptado. Por razones de seguridad, los respaldos anteriores de los archivos de billetera se volverán inútiles en tanto coVTRnces a usar la nueva billetera encriptada.</translation>
     </message>
     <message>
         <location line="+103"/>
@@ -1714,7 +1714,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 MIE</source>
+        <source>0.00 VTR</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1784,7 +1784,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 MIE</source>
+        <source>123.456 VTR</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2781,7 +2781,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Ventor Alert&quot; admin@foo.c
     <message>
         <location line="+5"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation>Umbral de desconección de clientes con mal comportamiento (por defecto: 100)</translation>
+        <translation>Umbral de desconección de clientes con mal comportaVTRnto (por defecto: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2925,7 +2925,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Ventor Alert&quot; admin@foo.c
     <message>
         <location line="+42"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Enviar informacion de seguimiento a la consola en vez del archivo debug.log</translation>
+        <translation>Enviar informacion de seguiVTRnto a la consola en vez del archivo debug.log</translation>
     </message>
     <message>
         <location line="+5"/>

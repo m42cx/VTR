@@ -454,7 +454,7 @@ public:
         labelAnonymized = new QLabel(frameDarksend);
         labelAnonymized->setObjectName(QStringLiteral("labelAnonymized"));
         labelAnonymized->setFont(font);
-        labelAnonymized->setText(QStringLiteral("0 MIE"));
+        labelAnonymized->setText(QStringLiteral("0 VTR"));
 
         formLayout->setWidget(3, QFormLayout::FieldRole, labelAnonymized);
 
@@ -648,7 +648,7 @@ public:
         label_7->setText(QApplication::translate("OverviewPage", "Completion:", nullptr));
         labelAnonymizedText->setText(QApplication::translate("OverviewPage", "Darksend Balance:", nullptr));
         label_8->setText(QApplication::translate("OverviewPage", "Amount and Rounds:", nullptr));
-        labelAmountRounds->setText(QApplication::translate("OverviewPage", "0 MIE / 0 Rounds", nullptr));
+        labelAmountRounds->setText(QApplication::translate("OverviewPage", "0 VTR / 0 Rounds", nullptr));
         label_9->setText(QApplication::translate("OverviewPage", "Submitted Denom:", nullptr));
 #ifndef QT_NO_TOOLTIP
         labelSubmittedDenom->setToolTip(QApplication::translate("OverviewPage", "The denominations you submitted to the Masternode.<br>To mix, other users must submit the exact same denominations.", nullptr));

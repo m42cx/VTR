@@ -69,7 +69,7 @@ Value getstakesubsidy(const Array& params, bool fHelp)
 		ssData >> tx;
 	}
 	catch (std::exception &e) {
-		throw JSONRPCError(RPC_DESERIALIZATION_ERROR, "MIE decode failed");
+		throw JSONRPCError(RPC_DESERIALIZATION_ERROR, "VTR decode failed");
 	}
 
 	uint64_t nCoinAge;

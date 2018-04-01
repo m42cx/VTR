@@ -1715,7 +1715,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 MIE</source>
+        <source>0.00 VTR</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1785,7 +1785,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 MIE</source>
+        <source>123.456 VTR</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2748,7 +2748,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Ventor Alert&quot; admin@foo.c
     <message>
         <location line="+1"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation>Uzturēt līdz &lt;n&gt; savienojumiem ar citiem mezgliem(pēc noklusēšanas: 125)</translation>
+        <translation>Uzturēt līdz &lt;n&gt; savienojuVTRm ar citiem mezgliem(pēc noklusēšanas: 125)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3124,7 +3124,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Ventor Alert&quot; admin@foo.c
     <message>
         <location line="+9"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation>JSON-RPC savienojumiem izmantot OpenSSL (https)</translation>
+        <translation>JSON-RPC savienojuVTRm izmantot OpenSSL (https)</translation>
     </message>
     <message>
         <location line="+1"/>

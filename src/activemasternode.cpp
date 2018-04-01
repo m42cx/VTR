@@ -9,7 +9,7 @@
 #include "clientversion.h"
 
 //
-// Bootup the masternode, look for a 5000 MIE input and register on the network
+// Bootup the masternode, look for a 5000 VTR input and register on the network
 //
 void CActiveMasternode::ManageStatus()
 {

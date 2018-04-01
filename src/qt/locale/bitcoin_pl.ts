@@ -211,7 +211,7 @@ Możesz dodać kolejny adres dla każdego wysyłającego aby określić od kogo 
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation>Zmień hasło</translation>
+        <translation>ZVTRń hasło</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -236,7 +236,7 @@ Możesz dodać kolejny adres dla każdego wysyłającego aby określić od kogo 
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>WAŻNE: Wszystkie wykonane wcześniej kopie pliku portfela powinny być zamienione na nowe, szyfrowane pliki. Z powodów bezpieczeństwa, poprzednie kopie nieszyfrowanych plików portfela staną się bezużyteczne jak tylko zaczniesz korzystać z nowego, szyfrowanego portfela.</translation>
+        <translation>WAŻNE: Wszystkie wykonane wcześniej kopie pliku portfela powinny być zaVTRnione na nowe, szyfrowane pliki. Z powodów bezpieczeństwa, poprzednie kopie nieszyfrowanych plików portfela staną się bezużyteczne jak tylko zaczniesz korzystać z nowego, szyfrowanego portfela.</translation>
     </message>
     <message>
         <location line="+103"/>
@@ -299,7 +299,7 @@ Możesz dodać kolejny adres dla każdego wysyłającego aby określić od kogo 
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>Hasło portfela zostało pomyślnie zmienione.</translation>
+        <translation>Hasło portfela zostało pomyślnie zVTRnione.</translation>
     </message>
 </context>
 <context>
@@ -382,7 +382,7 @@ Możesz dodać kolejny adres dla każdego wysyłającego aby określić od kogo 
     <message>
         <location line="+2"/>
         <source>&amp;Change Passphrase...</source>
-        <translation>&amp;Zmień hasło...</translation>
+        <translation>&amp;ZVTRń hasło...</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -417,7 +417,7 @@ Możesz dodać kolejny adres dla każdego wysyłającego aby określić od kogo 
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Zmień hasło użyte do szyfrowania portfela</translation>
+        <translation>ZVTRń hasło użyte do szyfrowania portfela</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1493,7 +1493,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+49"/>
         <source>Startup time</source>
-        <translation>Czas uruchomienia</translation>
+        <translation>Czas uruchoVTRnia</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1716,7 +1716,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 MIE</source>
+        <source>0.00 VTR</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1786,7 +1786,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 MIE</source>
+        <source>123.456 VTR</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2508,12 +2508,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>This month</source>
-        <translation>W tym miesiącu</translation>
+        <translation>W tym VTRsiącu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Last month</source>
-        <translation>W zeszłym miesiącu</translation>
+        <translation>W zeszłym VTRsiącu</translation>
     </message>
     <message>
         <location line="+1"/>

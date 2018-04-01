@@ -1564,13 +1564,13 @@ public:
         label232->setText(QApplication::translate("tradingDialog", "BTC Available:", nullptr));
         BtcAvailableLabel->setText(QApplication::translate("tradingDialog", "0.00000000", nullptr));
         labelBTC->setText(QApplication::translate("tradingDialog", "BTC", nullptr));
-        label232_2->setText(QApplication::translate("tradingDialog", "MIE Available:", nullptr));
+        label232_2->setText(QApplication::translate("tradingDialog", "VTR Available:", nullptr));
         TXAvailableLabel->setText(QApplication::translate("tradingDialog", " 0.00000000 ", nullptr));
-        labelTX->setText(QApplication::translate("tradingDialog", " MIE", nullptr));
+        labelTX->setText(QApplication::translate("tradingDialog", " VTR", nullptr));
         Buy_Max_Amount->setText(QApplication::translate("tradingDialog", "Max", nullptr));
-        label_4->setText(QApplication::translate("tradingDialog", "MIE", nullptr));
+        label_4->setText(QApplication::translate("tradingDialog", "VTR", nullptr));
         Sell_Max_Amount->setText(QApplication::translate("tradingDialog", "Max", nullptr));
-        label_22->setText(QApplication::translate("tradingDialog", "MIE", nullptr));
+        label_22->setText(QApplication::translate("tradingDialog", "VTR", nullptr));
         label_6->setText(QApplication::translate("tradingDialog", "Bid", nullptr));
         label_5->setText(QApplication::translate("tradingDialog", "BTC", nullptr));
         label_16->setText(QApplication::translate("tradingDialog", "BTC", nullptr));
@@ -1580,34 +1580,34 @@ public:
         label_19->setText(QApplication::translate("tradingDialog", "Total w/ 0.25% Fee ", nullptr));
         SellCostLabel->setText(QApplication::translate("tradingDialog", " 0.00000000", nullptr));
         label_17->setText(QApplication::translate("tradingDialog", " BTC", nullptr));
-        BuyTX->setText(QApplication::translate("tradingDialog", "Buy MIE", nullptr));
-        SellTXBTN->setText(QApplication::translate("tradingDialog", "Sell MIE", nullptr));
+        BuyTX->setText(QApplication::translate("tradingDialog", "Buy VTR", nullptr));
+        SellTXBTN->setText(QApplication::translate("tradingDialog", "Sell VTR", nullptr));
         BtcDemand->setText(QApplication::translate("tradingDialog", "0.00000000 BTC", nullptr));
         AsksCount->setText(QApplication::translate("tradingDialog", "Asks: 0000", nullptr));
         BtcSupply->setText(QApplication::translate("tradingDialog", "0.00000000 BTC", nullptr));
-        TXDemand->setText(QApplication::translate("tradingDialog", "Demand: 0.00000000 MIE", nullptr));
-        TXSupply->setText(QApplication::translate("tradingDialog", "Supply: 0.00000000 MIE", nullptr));
+        TXDemand->setText(QApplication::translate("tradingDialog", "Demand: 0.00000000 VTR", nullptr));
+        TXSupply->setText(QApplication::translate("tradingDialog", "Supply: 0.00000000 VTR", nullptr));
         BidsCount->setText(QApplication::translate("tradingDialog", "Bids: 0000", nullptr));
         TradingTabWidget->setTabText(TradingTabWidget->indexOf(BuyTab), QApplication::translate("tradingDialog", "Trade", nullptr));
         label_21->setText(QApplication::translate("tradingDialog", "Lowest price:", nullptr));
         CSDumpLabel->setText(QApplication::translate("tradingDialog", " 0.00000000", nullptr));
         label_25->setText(QApplication::translate("tradingDialog", "BTC", nullptr));
-        label_32->setText(QApplication::translate("tradingDialog", "Amount in MIE:", nullptr));
+        label_32->setText(QApplication::translate("tradingDialog", "Amount in VTR:", nullptr));
         CSTotalLabel->setText(QApplication::translate("tradingDialog", " 0.00000000", nullptr));
-        label_35->setText(QApplication::translate("tradingDialog", "MIE", nullptr));
+        label_35->setText(QApplication::translate("tradingDialog", "VTR", nullptr));
         label_20->setText(QApplication::translate("tradingDialog", "Total w/ Fees :", nullptr));
         CSReceiveLabel->setText(QApplication::translate("tradingDialog", " 0.00000000", nullptr));
         label_18->setText(QApplication::translate("tradingDialog", "BTC", nullptr));
         CSUnitsBtn->setText(QApplication::translate("tradingDialog", "Send", nullptr));
         label232_8->setText(QString());
         label232_13->setText(QApplication::translate("tradingDialog", "<html><head/><body><p><span style=\" font-size:9pt; font-weight:600;\">Warning:</span><span style=\" font-size:9pt;\"> This feature is in </span><span style=\" font-size:9pt; font-weight:600;\">ALPHA ! USE AT OWN RISK !</span></p></body></html>", nullptr));
-        label232_15->setText(QApplication::translate("tradingDialog", "<html><head/><body><p align=\"center\"><span style=\" font-weight:600; text-decoration: underline;\">Instructions:</span></p><p align=\"center\">To use the cross sending feature you need to have </p><p align=\"center\">MIE available to spend on Bittrex. If you don't have any </p><p align=\"center\">you can find your deposit address on the &quot;Balance&quot; tab.</p><p align=\"center\">1. Enter the amount you want to receive in Bitcoin.</p><p align=\"center\">2. Enter the Bitcoin address you are sending to.</p><p align=\"center\">3. Check that the Total with fee's is correct.</p><p align=\"center\">4. Press send and watch the magic happen.</p><p align=\"center\"><span style=\" font-weight:600; text-decoration: underline;\">Notes.</span></p><p align=\"center\"><span style=\" font-size:7pt;\">Total w/ fees: N/A means you dont have enough MIE to sell !</span></p><p align=\"center\"><span style=\" font-size:7pt;\">All trades are done through Bittrex using your own balance and API keys.</span></p><p align=\"center\""
+        label232_15->setText(QApplication::translate("tradingDialog", "<html><head/><body><p align=\"center\"><span style=\" font-weight:600; text-decoration: underline;\">Instructions:</span></p><p align=\"center\">To use the cross sending feature you need to have </p><p align=\"center\">VTR available to spend on Bittrex. If you don't have any </p><p align=\"center\">you can find your deposit address on the &quot;Balance&quot; tab.</p><p align=\"center\">1. Enter the amount you want to receive in Bitcoin.</p><p align=\"center\">2. Enter the Bitcoin address you are sending to.</p><p align=\"center\">3. Check that the Total with fee's is correct.</p><p align=\"center\">4. Press send and watch the magic happen.</p><p align=\"center\"><span style=\" font-weight:600; text-decoration: underline;\">Notes.</span></p><p align=\"center\"><span style=\" font-size:7pt;\">Total w/ fees: N/A means you dont have enough VTR to sell !</span></p><p align=\"center\"><span style=\" font-size:7pt;\">All trades are done through Bittrex using your own balance and API keys.</span></p><p align=\"center\""
                         "><span style=\" font-size:7pt;\">Encrypt and backup your wallet when using this feature.</span></p><p align=\"center\"><span style=\" font-size:7pt;\">If you don't have a password you bittrex account will be accessible 24/7</span></p><p align=\"center\"><span style=\" font-size:7pt;\">Withdrawal fee of 0.002 and 0.25% taken by Bittrex.</span></p></body></html>", nullptr));
         label_27->setText(QApplication::translate("tradingDialog", "Amount:", nullptr));
         label_8->setText(QApplication::translate("tradingDialog", "Address:", nullptr));
-        label_29->setText(QApplication::translate("tradingDialog", "MIE Balance:", nullptr));
+        label_29->setText(QApplication::translate("tradingDialog", "VTR Balance:", nullptr));
         BittrexTXLabel->setText(QApplication::translate("tradingDialog", " 0.00000000", nullptr));
-        label_30->setText(QApplication::translate("tradingDialog", "MIE", nullptr));
+        label_30->setText(QApplication::translate("tradingDialog", "VTR", nullptr));
         label_36->setText(QApplication::translate("tradingDialog", "BTC Balance:", nullptr));
         BittrexBTCLabel->setText(QApplication::translate("tradingDialog", " 0.00000000", nullptr));
         label_37->setText(QApplication::translate("tradingDialog", "BTC", nullptr));
@@ -1624,19 +1624,19 @@ public:
         TradingTabWidget->setTabText(TradingTabWidget->indexOf(MarketHistory), QApplication::translate("tradingDialog", "Market History", nullptr));
         TradingTabWidget->setTabText(TradingTabWidget->indexOf(OpenOrders), QApplication::translate("tradingDialog", "Open Orders", nullptr));
         TradingTabWidget->setTabText(TradingTabWidget->indexOf(TradeHistory), QApplication::translate("tradingDialog", "Trade history", nullptr));
-        label_11->setText(QApplication::translate("tradingDialog", "MIE Balance:", nullptr));
+        label_11->setText(QApplication::translate("tradingDialog", "VTR Balance:", nullptr));
         TXBalanceLabel->setText(QApplication::translate("tradingDialog", "0.00000000", nullptr));
         label_12->setText(QApplication::translate("tradingDialog", "BTC Balance:", nullptr));
         BitcoinBalanceLabel->setText(QApplication::translate("tradingDialog", "0.00000000", nullptr));
-        label_13->setText(QApplication::translate("tradingDialog", "MIE Available:", nullptr));
+        label_13->setText(QApplication::translate("tradingDialog", "VTR Available:", nullptr));
         TXAvailableLabel_2->setText(QApplication::translate("tradingDialog", "0.00000000", nullptr));
         label_15->setText(QApplication::translate("tradingDialog", "BTC Available:", nullptr));
         BitcoinAvailableLabel->setText(QApplication::translate("tradingDialog", "0.00000000", nullptr));
-        label_14->setText(QApplication::translate("tradingDialog", "MIE Pending:", nullptr));
+        label_14->setText(QApplication::translate("tradingDialog", "VTR Pending:", nullptr));
         TXPendingLabel->setText(QApplication::translate("tradingDialog", "0.00000000", nullptr));
         label_31->setText(QApplication::translate("tradingDialog", "BTC Pending:", nullptr));
         BitcoinPendingLabel->setText(QApplication::translate("tradingDialog", "0.00000000", nullptr));
-        GenDepositBTN->setText(QApplication::translate("tradingDialog", "Generate MIE Coin Deposit Address", nullptr));
+        GenDepositBTN->setText(QApplication::translate("tradingDialog", "Generate VTR Coin Deposit Address", nullptr));
         label_33->setText(QApplication::translate("tradingDialog", "Deposit Address:", nullptr));
         DepositAddressLabel->setText(QString());
 #ifndef QT_NO_TOOLTIP
@@ -1646,7 +1646,7 @@ public:
 #ifndef QT_NO_SHORTCUT
         DepositCopyButton->setShortcut(QApplication::translate("tradingDialog", "Alt+P", nullptr));
 #endif // QT_NO_SHORTCUT
-        label_34->setText(QApplication::translate("tradingDialog", "Withdraw MIE:", nullptr));
+        label_34->setText(QApplication::translate("tradingDialog", "Withdraw VTR:", nullptr));
         label_26->setText(QApplication::translate("tradingDialog", "Amount:", nullptr));
         WithdrawUnitsInput->setText(QString());
         Withdraw_Max_Amount->setText(QApplication::translate("tradingDialog", "Max", nullptr));

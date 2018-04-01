@@ -487,7 +487,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+17"/>
         <source>Tabs toolbar</source>
-        <translation>Barra de herramientas</translation>
+        <translation>Barra de herraVTRntas</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -1711,7 +1711,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 MIE</source>
+        <source>0.00 VTR</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1781,7 +1781,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 MIE</source>
+        <source>123.456 VTR</source>
         <translation type="unfinished"/>
     </message>
     <message>

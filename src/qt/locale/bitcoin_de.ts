@@ -1090,7 +1090,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Start minimized</source>
-        <translation>Minimiert starten</translation>
+        <translation>MiniVTRrt starten</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1203,22 +1203,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Nur ein Symbol im Infobereich anzeigen, nachdem das Programmfenster minimiert wurde.</translation>
+        <translation>Nur ein Symbol im Infobereich anzeigen, nachdem das Programmfenster miniVTRrt wurde.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>In den Infobereich anstatt in die Taskleiste &amp;minimieren</translation>
+        <translation>In den Infobereich anstatt in die Taskleiste &amp;miniVTRren</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Minimiert die Anwendung anstatt sie zu beenden wenn das Fenster geschlossen wird. Wenn dies aktiviert ist, müssen Sie das Programm über &quot;Beenden&quot; im Menü schließen.</translation>
+        <translation>MiniVTRrt die Anwendung anstatt sie zu beenden wenn das Fenster geschlossen wird. Wenn dies aktiviert ist, müssen Sie das Programm über &quot;Beenden&quot; im Menü schließen.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>M&amp;inimize on close</source>
-        <translation>Beim Schließen m&amp;inimieren</translation>
+        <translation>Beim Schließen m&amp;iniVTRren</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1714,7 +1714,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 MIE</source>
+        <source>0.00 VTR</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1784,7 +1784,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 MIE</source>
+        <source>123.456 VTR</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3284,7 +3284,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Ventor Alert&quot; admin@foo.c
     <message>
         <location line="+34"/>
         <source>Minimize weight consumption (experimental) (default: 0)</source>
-        <translation>Minimiere Verbrauch von Gewicht (experimentell) (Standard: 0)</translation>
+        <translation>MiniVTRre Verbrauch von Gewicht (experimentell) (Standard: 0)</translation>
     </message>
     <message>
         <location line="+8"/>

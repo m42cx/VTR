@@ -61,7 +61,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-43"/>
         <source>These are your Ventor addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son las direcciones de Ventor para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
+        <translation>Estas son las direcciones de Ventor para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguiVTRnto de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -237,7 +237,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>IMPORTANTE: Cualquier copia de seguridad que haya realizado previamente de su archivo de monedero debe reemplazarse con el nuevo archivo de monedero cifrado. Por razones de seguridad, las copias de seguridad previas del archivo de monedero no cifradas serán inservibles en cuanto comience a usar el nuevo monedero cifrado.</translation>
+        <translation>IMPORTANTE: Cualquier copia de seguridad que haya realizado previamente de su archivo de monedero debe reemplazarse con el nuevo archivo de monedero cifrado. Por razones de seguridad, las copias de seguridad previas del archivo de monedero no cifradas serán inservibles en cuanto coVTRnce a usar el nuevo monedero cifrado.</translation>
     </message>
     <message>
         <location line="+103"/>
@@ -1386,7 +1386,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+50"/>
         <source>&lt;b&gt;Recent transactions&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Movimientos recientes&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;MoviVTRntos recientes&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="-118"/>
@@ -1731,8 +1731,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 MIE</source>
-        <translation>123.456 MIE {0.00 ?}</translation>
+        <source>0.00 VTR</source>
+        <translation>123.456 VTR {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1801,8 +1801,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 MIE</source>
-        <translation>123.456 MIE</translation>
+        <source>123.456 VTR</source>
+        <translation>123.456 VTR</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -2797,12 +2797,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Ventor Alert&quot; admin@foo.c
     <message>
         <location line="+5"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation>Umbral para la desconexión de pares con mal comportamiento (predeterminado: 100)</translation>
+        <translation>Umbral para la desconexión de pares con mal comportaVTRnto (predeterminado: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation>Número de segundos en que se evita la reconexión de pares con mal comportamiento (predeterminado: 86400)</translation>
+        <translation>Número de segundos en que se evita la reconexión de pares con mal comportaVTRnto (predeterminado: 86400)</translation>
     </message>
     <message>
         <location line="-37"/>
@@ -3305,7 +3305,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Ventor Alert&quot; admin@foo.c
     <message>
         <location line="+125"/>
         <source>Unable to bind to %s on this computer. Ventor is probably already running.</source>
-        <translation>No se puede enlazar a %s en este equipo. Ventor probablemente ya esté en funcionamiento.</translation>
+        <translation>No se puede enlazar a %s en este equipo. Ventor probablemente ya esté en funcionaVTRnto.</translation>
     </message>
     <message>
         <location line="-101"/>

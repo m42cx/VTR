@@ -99,13 +99,13 @@ public:
         buttonHigh->setText(QApplication::translate("DarksendConfig", "High Privacy", nullptr));
         buttonMax->setText(QApplication::translate("DarksendConfig", "Maximum Privacy", nullptr));
         label->setText(QApplication::translate("DarksendConfig", "Please select a privacy level.", nullptr));
-        label_2->setText(QApplication::translate("DarksendConfig", "Use 2 separate masternodes to mix funds up to 1000 MIE", nullptr));
-        label_3->setText(QApplication::translate("DarksendConfig", "Use 8 separate masternodes to mix funds up to 1000 MIE", nullptr));
+        label_2->setText(QApplication::translate("DarksendConfig", "Use 2 separate masternodes to mix funds up to 1000 VTR", nullptr));
+        label_3->setText(QApplication::translate("DarksendConfig", "Use 8 separate masternodes to mix funds up to 1000 VTR", nullptr));
         label_4->setText(QApplication::translate("DarksendConfig", "Use 16 separate masternodes", nullptr));
-        label_6->setText(QApplication::translate("DarksendConfig", "This option is the quickest and will cost about ~0.025 MIE to anonymize 1000 MIE", nullptr));
-        label_7->setText(QApplication::translate("DarksendConfig", "This option is moderately fast and will cost about 0.05 MIE to anonymize 1000 MIE", nullptr));
+        label_6->setText(QApplication::translate("DarksendConfig", "This option is the quickest and will cost about ~0.025 VTR to anonymize 1000 VTR", nullptr));
+        label_7->setText(QApplication::translate("DarksendConfig", "This option is moderately fast and will cost about 0.05 VTR to anonymize 1000 VTR", nullptr));
         label_8->setText(QApplication::translate("DarksendConfig", "This is the slowest and most secure option. Using maximum anonymity will cost", nullptr));
-        label_9->setText(QApplication::translate("DarksendConfig", "0.1 MIE per 1000 MIE you anonymize.", nullptr));
+        label_9->setText(QApplication::translate("DarksendConfig", "0.1 VTR per 1000 VTR you anonymize.", nullptr));
     } // retranslateUi
 
 };

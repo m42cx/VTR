@@ -209,7 +209,7 @@ public:
     void retranslateUi(QDialog *AddEditAdrenalineNode)
     {
         AddEditAdrenalineNode->setWindowTitle(QApplication::translate("AddEditAdrenalineNode", "Add/Edit Ventor Node", nullptr));
-        label_9->setText(QApplication::translate("AddEditAdrenalineNode", "<html><head/><body><p>Enter an Alias (friendly name) for your Master Node and its address (either clearnet IP and port or Tor onion address and port). The address should be in the format 123.456.789.123:9999 or akjdsafxjkhasdf.onion:9999. You must send exactly 5000 MIE to the collateral address.</p></body></html>", nullptr));
+        label_9->setText(QApplication::translate("AddEditAdrenalineNode", "<html><head/><body><p>Enter an Alias (friendly name) for your Master Node and its address (either clearnet IP and port or Tor onion address and port). The address should be in the format 123.456.789.123:9999 or akjdsafxjkhasdf.onion:9999. You must send exactly 5000 VTR to the collateral address.</p></body></html>", nullptr));
         label_4->setText(QApplication::translate("AddEditAdrenalineNode", "Alias*", nullptr));
         label_6->setText(QApplication::translate("AddEditAdrenalineNode", "Address*", nullptr));
         label_5->setText(QApplication::translate("AddEditAdrenalineNode", "PrivKey*", nullptr));
