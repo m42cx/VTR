@@ -170,8 +170,8 @@ Value checkkernel(const Array& params, bool fHelp)
 	if (vNodes.empty())
 		throw JSONRPCError(-9, "Ventor is not connected!");
 
-	if (IsInitialBlockDownload())
-		throw JSONRPCError(-10, "Ventor is downloading blocks...");
+//	if (IsInitialBlockDownload())
+//		throw JSONRPCError(-10, "Ventor is downloading blocks...");
 
 	COutPoint kernel;
 	CBlockIndex* pindexPrev = pindexBest;
@@ -251,8 +251,8 @@ Value getworkex(const Array& params, bool fHelp)
 	if (vNodes.empty())
 		throw JSONRPCError(-9, "Ventor is not connected!");
 
-	if (IsInitialBlockDownload())
-		throw JSONRPCError(-10, "Ventor is downloading blocks...");
+//if (IsInitialBlockDownload())
+	//	throw JSONRPCError(-10, "Ventor is downloading blocks...");
 
 	if (pindexBest->nHeight >= Params().LastPOWBlock())
 		throw JSONRPCError(RPC_MISC_ERROR, "No more PoW blocks");
@@ -377,8 +377,8 @@ Value mine(const Array& params, bool fHelp)
 	if (vNodes.empty())
 		throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "Ventor is not connected!");
 
-	if (IsInitialBlockDownload())
-		throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "Ventor is downloading blocks...");
+//	if (IsInitialBlockDownload())
+//		throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "Ventor is downloading blocks...");
 
 	// Creating a soft fork at block 18000, still observing the PoW block limit after 15000.
 	if (pindexBest->nHeight > Params().LastPOWBlock() || (pindexBest->nHeight > 15000 && pindexBest->nHeight < 18000))
@@ -462,8 +462,8 @@ Value getwork(const Array& params, bool fHelp)
 	if (vNodes.empty())
 		throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "Ventor is not connected!");
 
-	if (IsInitialBlockDownload())
-		throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "Ventor is downloading blocks...");
+//	if (IsInitialBlockDownload())
+//		throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "Ventor is downloading blocks...");
 
 	if (pindexBest->nHeight >= Params().LastPOWBlock())
 		throw JSONRPCError(RPC_MISC_ERROR, "No more PoW blocks");

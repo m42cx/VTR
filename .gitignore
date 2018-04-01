@@ -1,0 +1,11 @@
+build
+release
+Makefile*
+make-mxe32.sh
+object_script*
+ventor-qt_plugin_import.cpp
+src/Ventord
+
+!src/secp256k1/build-aux/m4/ax_prog_cc_for_build.m4
+!src/secp256k1/build-aux/m4/bitcoin_secp.m4
+/src/secp256k1/build-aux/*
